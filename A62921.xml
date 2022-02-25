@@ -1,0 +1,642 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jesuits assassins, or, The Popish plot further declared and demonstrated in their murderous practices &amp; principles the first part ... / all extracted out of Dr. Tong's papers, written at his first discovery of this plot to his Majesty, and since in part augmented for publick satisfaction.</title>
+            <author>Tonge, Ezerel, 1621-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 77 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62921</idno>
+            <idno type="STC">Wing T1877</idno>
+            <idno type="STC">ESTC R2873</idno>
+            <idno type="EEBO-CITATION">13446966</idno>
+            <idno type="OCLC">ocm 13446966</idno>
+            <idno type="VID">99587</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62921)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 99587)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 478:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Jesuits assassins, or, The Popish plot further declared and demonstrated in their murderous practices &amp; principles the first part ... / all extracted out of Dr. Tong's papers, written at his first discovery of this plot to his Majesty, and since in part augmented for publick satisfaction.</title>
+                  <author>Tonge, Ezerel, 1621-1680.</author>
+               </titleStmt>
+               <extent>2 pts, [4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Darby to be sold by the Booksellers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: the second part with title: "An answer to certain scandalous papers scattered abroad under colour of a Catholic admonition," is lacking in filmed copy.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>I. A catalogue of our English popish assassins, swarming in all places, especially in the city of London. -- II. The history of the Mahometan old man of the mountains and his assassins; and a comparison of him and them with the pope and his emissaries, in doctrine and practice. -- III. The mysterious secret of the chamber of meditations amongst the Jesuits. -- IV. The examinations and depostions of Lund, and others, about the assasins and assassinations now practised, or endeavoured by the popish emissaries, against His Majesty, his nobles, and other his Protestant subjects. -- V. The Earl of Salisbury's answer to scandalous papers, wherein he was threatned to be assassinated by the confederates ofthe gunpowder traytors. -- VI. Proposals to authority, for the better extirpation of this bloody order. -- With reflections and observations upon the several relations.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:99587:1" rendition="simple:additions"/>
+            <p>
+               <hi>Ieſuits Aſſaſſins:</hi> OR THE POPISH PLOT Further Declared, And demonſtrated in their Murderous Practices &amp; Principles. THE FIRST PART. CONTAINING,
+<list>
+                  <item>I. A Catalogue of our Engliſh Popiſh Aſſaſſins, ſwarming in all places, eſpecially in the City of <hi>London.</hi>
+                  </item>
+                  <item>II. The Hiſtory of the <hi>Mahometan old Man of the Mountains</hi> and his <hi>Aſſaſſins;</hi> and a compariſon of him and them with the Pope and his Emiſſaries, in Doctrine and Practice.</item>
+                  <item>III. The Myſterious Secret of the Chamber of Meditations amongſt the Jeſuits.</item>
+                  <item>IV. The Examinations and Depoſitions of <hi>Lund,</hi> and others, about the <hi>Aſſaſins</hi> and <hi>Aſſaſſinations</hi> now practiſed, or endeavoured by the Popiſh Emiſſaries, againſt his Majeſty, his Nobles, and other his Proteſtant Subjects.</item>
+                  <item>V. The Earl of <hi>Salisbury</hi>'s Anſwer to ſcandalous Papers, wherein he was threatned to be <hi>aſſaſſinated</hi> by the Confederates of the Gunpowder Traytors.</item>
+                  <item>VI. Propoſals to Authority, for the better Extirpation of this Bloody Order.</item>
+               </list>
+            </p>
+            <p>With Reflections and Obſervations upon the ſeveral Relations. All Extracted out of Dr. TONG's Papers, written at his firſt diſ<g ref="char:EOLhyphen"/>covery of this Plot to his Majeſty, and ſince in part augmented for Publick Satisfaction.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. Darby,</hi> to be ſold by the Book-ſellers. 1680.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <div type="part">
+               <pb facs="tcp:99587:2" rendition="simple:additions"/>
+               <head>A Catalogue of the Perſons Aſſaſſinated, Attempted, or Deſigned upon by the <hi>Roman Aſſaſsins,</hi> and of thoſe <hi>Aſſaſsins</hi> themſelves, ſo far as they are known.</head>
+               <div type="subpart">
+                  <head>Aſſaſsinated, or ſuſpected to be made away.</head>
+                  <list>
+                     <item>SIr <hi>Edmond-Bury Godfry.</hi>
+                     </item>
+                     <item>The <hi>Lancaſhire</hi> Witneſs ſent up to teſtify of Arms found there.</item>
+                     <item>The Body expoſed in <hi>Weſtminſter</hi>-Abby.</item>
+                     <item>The Lord Arch-Bp of <hi>York</hi>'s Chaplain.</item>
+                  </list>
+               </div>
+               <div type="subpart">
+                  <head>Attempted.</head>
+                  <list>
+                     <item>The <hi>Shropſhire</hi> Juſtice.</item>
+                     <item>The <hi>Yorkſhire</hi> Witneſs in <hi>Tuttle-ſtreet.</hi>
+                     </item>
+                     <item>
+                        <hi>Macedo</hi> a <hi>Portugueſe</hi>-Convert, ſeveral times aſſaulted, and twice ſhipt out of the Kingdom.</item>
+                     <item>Dr. <hi>Saul,</hi> Dr. <hi>Luzancy,</hi> Mr. <hi>Mowbray,</hi> Mr. <hi>Tompkins,</hi> Mr. <hi>Baron,</hi> Mr. <hi>Arnold,</hi> and his Friend, Mr. <hi>Wren.</hi>
+                     </item>
+                  </list>
+               </div>
+               <div type="subpart">
+                  <head>Deſigned upon by Name.</head>
+                  <list>
+                     <item>The King's Majeſty.</item>
+                     <item>
+                        <hi>Rupert,</hi> Prince Palatine of the <hi>Rhine,</hi> Duke of <hi>Cumberland.</hi>
+                     </item>
+                     <item>The Lords of his Majeſty's moſt Honourable Privy-Council; particularly,</item>
+                     <item>
+                        <list>
+                           <item>
+                              <hi>James,</hi> Duke of <hi>Monmouth.</hi>
+                           </item>
+                           <item>
+                              <hi>George,</hi> Duke of <hi>Buckingham.</hi>
+                           </item>
+                           <item>
+                              <hi>James,</hi> Duke of <hi>Ormond.</hi>
+                           </item>
+                           <item>
+                              <hi>Thomas,</hi> Earl of <hi>Oſſory.</hi>
+                           </item>
+                           <item>
+                              <hi>Anthony,</hi> Earl of <hi>Shaftsbury.</hi>
+                           </item>
+                           <item>
+                              <hi>James,</hi> Earl of <hi>Salisbury.</hi>
+                           </item>
+                           <item>
+                              <hi>Arthur,</hi> Earl of <hi>Eſſex.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>George,</hi> Earl of <hi>Hallifax.</hi>
+                     </item>
+                     <item>
+                        <hi>Herbert,</hi> Lord Biſhop of <hi>Hereford.</hi>
+                     </item>
+                     <item>Mr. <hi>Matthew Pool.</hi>
+                     </item>
+                     <item>Dr. <hi>Stillingfleet.</hi>
+                     </item>
+                     <item>Mr. <hi>William Hutchinſon,</hi> alias <hi>Berry,</hi> a Secular Prieſt.</item>
+                     <item>Dr. <hi>Ezerel Tonge.</hi> 1. For the diſcovery of the Jeſuits Morals; And, 2. of their Plot to his Majeſty.</item>
+                     <item>All the principal leading Gentlemen of <hi>England,</hi> mentioned in the Liſt taken with <hi>Green,</hi> and the <hi>April</hi> Traytors executed at <hi>Tyburn,</hi> 1666. or in the black Bill.</item>
+                  </list>
+               </div>
+               <div type="subpart">
+                  <head>Principal Inciters and Procures of Aſſaſſins and Aſſaſſinations.</head>
+                  <list>
+                     <head>All Jeſuits.</head>
+                     <item>
+                        <hi>Thomas White,</hi> alias <hi>Whitebread,</hi> Provincial of the <hi>Engliſh</hi> Jeſuits.</item>
+                     <item>
+                        <hi>Thimbleby,</hi> alias <hi>Aſhby,</hi> Rector of St. <hi>Omers.</hi>
+                     </item>
+                     <item>
+                        <hi>Harcourt,</hi> Rector of <hi>London.</hi>
+                     </item>
+                     <item>
+                        <hi>Ireland, Fenwick, Keins, Gavan, Ewers, Gerald, Kelly.</hi>
+                     </item>
+                  </list>
+               </div>
+               <div type="subpart">
+                  <pb facs="tcp:99587:2" rendition="simple:additions"/>
+                  <head>Other Favourers and Abettors.</head>
+                  <list>
+                     <item>
+                        <hi>Edward Coleman</hi> 
+                        <abbr>Eſq</abbr> Dr. <hi>Fogarty, Patrick Plunket</hi> titular Primate of <hi>Ireland.</hi>
+                     </item>
+                     <item>
+                        <hi>Handkinſon,</hi> ſometimes Manciple or Steward to the <hi>Savoy</hi> Benedictine Monks.</item>
+                     <item>
+                        <hi>Anthony</hi> the <hi>Portugueſe,</hi> Servant to the Q. Confeſſor.</item>
+                  </list>
+               </div>
+               <div type="subpart">
+                  <head>Aſſaſſins.</head>
+                  <list>
+                     <item>—Benedictine Monk who ſtab'd the Duke of <hi>Soubize,</hi> and ſhelter'd him<g ref="char:EOLhyphen"/>ſelf in <hi>Sommerſet</hi>-Houſe; ſeen by Mr. <hi>Oates</hi> in the <hi>Savoy,</hi> but left there with the reſt, and <hi>Marſh</hi> in particular, for want of Authority to take him.</item>
+                     <item>
+                        <hi>Conyers,</hi> another Benedictine of the <hi>Savoy,</hi> and his Aſſociates, <hi>Keins, Prichard, Welſh, Kelly, Lefaire,</hi> alias <hi>Feure, Gerald, Thomas Pickering, John Grove,</hi> alias <hi>Honeſt William, Robert Green, Henry Berry, Lawrence Hill, Philibert Vernat, Le<g ref="char:EOLhyphen"/>viſon, Dethick,</hi> Conſcious and Aſſociates with Sir <hi>Edmond-Bury Godfry</hi>'s Murde<g ref="char:EOLhyphen"/>rers. <hi>Meſſenger,</hi> ſometimes Maſter of the Horſe to the Lord <hi>Arundel,</hi> Attendant on Dr. <hi>Sheldon,</hi> Almoner to the Dutches of <hi>York. Lang.</hi> Tryal, p. 8. Sir <hi>George Wak.</hi> p. 20. <hi>Anderton</hi> the Benedictine, aſſociated with <hi>Conyers.</hi>
+                     </item>
+                  </list>
+               </div>
+               <div type="subpart">
+                  <head>Aſſaſſines who were to intexicate the Lord <hi>Shaftsbury's</hi> Coachman.</head>
+                  <list>
+                     <item>
+                        <hi>Matteſon,</hi> a Barber, behind Grays-Inn.</item>
+                     <item>
+                        <hi>Bradſhaw,</hi> an Upholſterer, in Queens-ſtreet.</item>
+                     <item>
+                        <hi>Humphrey Adamſon,</hi> a Watch-maker, near Turn-ſtile, <hi>Holborn.</hi>
+                     </item>
+                     <item>
+                        <hi>Benedict Proſſer,</hi> a Silver-ſmith, in Silver-ſtreet in <hi>Southampton</hi>-Buildings. Theſe were the four Aſſaſſins accuſed by <hi>Prance,</hi> ſee his Book.</item>
+                     <item>Many ſtout and hardy <hi>Staffordſhire</hi> Aſſaſſins, whoſe Names are not known, choſen by <hi>Ewers,</hi> according to <hi>Whitebread</hi>'s Direction; and the like in all Coun<g ref="char:EOLhyphen"/>ties, many hundreds, as Mr. <hi>Dugdale</hi> believes.</item>
+                     <item>
+                        <hi>Karne, Wilſon, Broghil, Levalian,</hi> the four <hi>Iriſh</hi> Ruſſians. <hi>Fogarties</hi> four Aſ<g ref="char:EOLhyphen"/>ſaſſins not yet named: And <hi>Flemin</hi> the 9th of the <hi>Iriſh</hi> Ruffians; This <hi>Flemin</hi> was a Tory, that truſted ſo confidently to his perſonal Strength and Activity, as audaciouſly to refuſe (after he had bin proclaimed, for many Villanies done by him) the favour of Tranſportation into any Foreign Country, graciouſly offered him, for the eaſe of thoſe Parts he infeſted with his Robberies, <hi>&amp;c.</hi> He was at length ſhot by ſome Troopers who purſued him; in his Pocket Papers were found, which entituled him to a chief place in this Red Liſt. Dr. <hi>Fogarty</hi> Aſſaſſin or Poiſoner. Sir <hi>George Wakeman</hi> a Poiſoner. The <hi>Yorkſhire</hi> Aſſaſſins, accuſed by <hi>Baldron</hi> and others; ſee the <hi>Intelligence for City and Country,</hi> relating Sir <hi>Thomas Gaſcoin</hi>'s Tryal, not yet publiſhed. The 3 Aſſaſſins who aſſaulted Juſtice <hi>Arnold.</hi>
+                     </item>
+                     <item>It is verily believed, they are ſome hundreds in all, who in their turns were to attend this execrable Service. To inſtance, <hi>Conyers</hi> at <hi>Windſor</hi> ten days, and then to remove to <hi>L. B.</hi> Houſe. Mr. <hi>Dugdale,</hi> after his term over, was to go to <hi>Stan<g ref="char:EOLhyphen"/>don,</hi> the Lord <hi>Aſton</hi>'s, to avoid ſuſpicion, eaſily raiſed, by the too long continuance of ſtrange unknown Faces at Court.</item>
+                     <item>Here we may add the many thouſands <hi>French,</hi> and others, liſted and armed for the general Maſſacre in the <hi>London</hi> Fire, <hi>&amp;c.</hi>
+                     </item>
+                     <item>Memor. <hi>Gerald</hi> and <hi>Kelley</hi> drew in <hi>Prance,</hi> perſuading him it was no ſin, p. 64. Hiſt. Plot. <hi>Gavan</hi> and <hi>Ewres</hi> drew in <hi>Dugdale,</hi> by the example of <hi>Garnet</hi> and his Miracles, and of ſome Scripture Example. <hi>Plunket,</hi> alias <hi>Cock,</hi> Popiſh Arch-Biſhop and Primate of <hi>Ireland,</hi> encouraged <hi>Flemin</hi> by great Rewards, <hi>&amp;c.</hi>
+                     </item>
+                     <item>Here may be juſtly added <hi>Groves</hi> his Companions, the three <hi>Iriſh</hi> Incendia<g ref="char:EOLhyphen"/>rles, who aſſiſted him in burning and plundring <hi>Southwark,</hi> in which work he fur<g ref="char:EOLhyphen"/>feited himſelf, and had double pay for his double-diligence; <hi>Strange</hi> late Provin<g ref="char:EOLhyphen"/>cial of the Jeſuits, <hi>Barton, Penington.</hi>
+                     </item>
+                     <pb facs="tcp:99587:3" rendition="simple:additions"/>
+                     <item>
+                        <hi>David Nich. Keimaſh</hi> the Dominican, who lately died in <hi>Newgate,</hi> and all their Aſſiſtants, above fourſcore <hi>French</hi> and <hi>Iriſh</hi> Incendiaries, who burnt and plundred the City of <hi>London;</hi> and namely, * <hi>Marten Debamet,</hi> Fringemaker, the Frenchman, who fired his own Lodging, apprehended in the Fact, and delivered to the Guards at <hi>Bridewell,</hi> by Mr. <hi>N.</hi> who is living to atteſt it. The two <hi>Peters</hi> who fired their own Lodgings upon <hi>Snow hill,</hi> having firſt removed all their Goods, ſave the Pallat they lay on; apprehended by Mr. <hi>C.</hi> then one of the Guards, but reſcued by his Fellows, and diſmiſt.</item>
+                     <item>With theſe alſo the Guards themſelves, and <hi>Romiſh</hi> Penſioners, who diſmiſt them to proceed in their burning and plundering, are juſtly to be accounted as ready for any miſchief; and particularly that Captain that refuſed Mr. <hi>Middleton</hi> to remove his own Goods with his own Cart, telling him, That that Cart which carried away one Load of his Goods, deſerved to be burnt; which could tend to nothing but to mutiny the Citizens, that they might have a pretence to execute upon them their deſigned Maſſacre.</item>
+                     <item>
+                        <hi>Dav. Nich. Blundell</hi> the Jeſuits Catechiſt, ſubſtituted into Mr. <hi>Oats</hi> his room, for firing <hi>Wapping,</hi> and the Suburbs on that ſide the River, who did fire the Houſes at <hi>Limehouſe-hole,</hi> the 18th of <hi>Septemb.</hi> 1678. twelve days after Mr. <hi>Oats</hi> had made <hi>Affidavit</hi> of it, before Sir <hi>Edmond-Bury Godfry,</hi> and given his Majeſty no<g ref="char:EOLhyphen"/>tice of their purpoſe in his Information.</item>
+                     <item>
+                        <hi>Harcourt,</hi> and the other Jeſuits who imployed Mr. <hi>Bedloe,</hi> and viewed the Tower, Bridg-houſes, and other on the River, in order to the application of their Fire-Balls, <hi>&amp;c. Stubs, Gifford, Molrain,</hi> who ſet <hi>Eliz. Oxley</hi> to fire Mr. <hi>Bir<g ref="char:EOLhyphen"/>dans</hi> Houſe.</item>
+                     <item>The Jeſuits and their Aſſiſtants, who were to begin the Fire at the <hi>Temple,</hi> and carry it down to the <hi>Savoy.</hi> The Convent of the Benedictine Monks at the <hi>Sa<g ref="char:EOLhyphen"/>voy,</hi> who were to carry the Fire on to <hi>Charing-Croſs.</hi> They who ſet on, and helped <hi>M. Clark</hi> to fire her Maſter, Mr. <hi>De-la Noys</hi> Houſe near <hi>London-Bridg;</hi> and the other Maid formerly imployed in the like Villany; and the Boy at the <hi>Minories.</hi>
+                     </item>
+                     <item>* <hi>Memorand.</hi> This <hi>Martin de Hamet,</hi> or <hi>Andrew Somers,</hi> (for both thoſe Names were found in his Indenture) was an Indenture-Covenant Servant, to <hi>Claud Lant</hi> of the Pariſh of St. <hi>Leonard Shoreditch,</hi> a French Fringe-maker; and for better convenience to carry on the Fire, and to get Arms to be uſed in the Maſſacre, in caſe the French, then aboard their Fleet, had landed, and the the King thereupon bin aſſaſſinated, had taken a Lodging in <hi>Robin-Hoods</hi> Court in <hi>Shoe-lane,</hi> with the then Turn-ſpit of one of the Inns of Court; and firing his own Chamber, locked up his Door, and was taken going away with the Key, and his Indentures in his Pocket; and had entred himſelf in Captain <hi>Burton</hi>'s Company of the Auxi<g ref="char:EOLhyphen"/>liaries in <hi>Shoe-lane.</hi> The like may be preſumed of many more of theſe Incendia<g ref="char:EOLhyphen"/>ries. This <hi>Memorandum</hi> is more eſpecially commended to the Officers of the Trained-Bands and Auxiliaries of <hi>London;</hi> becauſe a very wiſe Man, and princi<g ref="char:EOLhyphen"/>pal Counſellor to one of the German Princes, hath, in a Book he publiſhed in <hi>French,</hi> affirmed, That there are many ſuch <hi>French Papiſts</hi> in the City of <hi>London,</hi> who in time of danger would turn to their Enemies and fight againſt them; and now only wait for the King's Death, or other opportunity to finiſh what they begun and deſigned againſt their Houſes and Lives, by Fire and Maſſacre in the Year 1666.</item>
+                     <item>Dr. <hi>Tonge</hi> hath the Original Indenture, and Witneſſes to prove this whole Mat<g ref="char:EOLhyphen"/>ter, to be produced when called for by Authority.</item>
+                     <item>See Inſtances of the like Fires, Maſſacres, and Robberies, acted by Jeſuits, and other Papiſts, in other Cities, in time of Peace, in the Doctor's Demonſtra<g ref="char:EOLhyphen"/>tion of the Fire-Plot, or the Jeſuits Incendiaries at the end of that part.</item>
+                     <item>The Aſſaſſins that aſſailed Juſtice <hi>Arnold,</hi> Mr. <hi>Tomkins,</hi> Mr. <hi>Baron,</hi> and others, may be here added when known.</item>
+                  </list>
+               </div>
+            </div>
+            <div type="anagram">
+               <pb n="1" facs="tcp:99587:3" rendition="simple:additions"/>
+               <head>
+                  <hi>Sir</hi> EDMOND-BURY GODFREY.</head>
+               <head type="sub">ANAGRAM.</head>
+               <q>
+                  <hi>I find Murder'd by Rogues.</hi> Orrory.</q>
+               <lg>
+                  <l>True Juſtice <hi>by</hi> falſe <hi>Rogues Murder'd I find,</hi>
+                  </l>
+                  <l>They ſeek in vain Heavens Righteous Eye to blind.</l>
+               </lg>
+               <q>
+                  <hi>Dog'd by Furies in Murder.</hi>
+               </q>
+               <q>
+                  <hi>Dog'd by Murderin' Furies.</hi>
+               </q>
+               <lg>
+                  <l>
+                     <hi>By</hi> Rogues, <hi>Rome</hi>'s <hi>Furies, dog'd, Murder'd,</hi> you Die,</l>
+                  <l>Your Name, their ſhame, ſhall live Immortally.</l>
+               </lg>
+               <q>
+                  <hi>Dy'd by</hi> Rome's <hi>rude Finger.</hi>
+               </q>
+               <lg>
+                  <l>
+                     <hi>Rome</hi> in Saints Blood ſtill her <hi>rude Finger dyes,</hi>
+                  </l>
+                  <l>Mother of Murders, Lies, Idolatries.</l>
+               </lg>
+               <q>
+                  <hi>Me dy' unburied! Dog-Friars!</hi>
+               </q>
+               <lg>
+                  <l>Whom Cruel <hi>Dogs</hi> devour, <hi>unburied,</hi> lie</l>
+                  <l>In Ditches, emblems of Friars Cruelty.</l>
+               </lg>
+               <q>
+                  <hi>Dun by</hi> Romes <hi>rigid fury.</hi>
+               </q>
+               <q>Rome<hi>'s riged fury unbid.</hi>
+               </q>
+               <lg>
+                  <l>
+                     <hi>Rome's rigid fury unbid,</hi> on Murther flies,</l>
+                  <l>And in Saints Blood her Scarlet double dyes.</l>
+               </lg>
+               <q>
+                  <hi>Dy'd by</hi> Romes <hi>reveng'd fury.</hi>
+               </q>
+               <q>Rome <hi>reveng'd by Fury's dy'd.</hi>
+               </q>
+               <q>Rom' <hi>dy'd by reveng'd Fury's.</hi>
+               </q>
+               <lg>
+                  <l>† Revenge, Revenge, Furies do Furies call,</l>
+                  <l>Thy Death is <hi>Romes</hi> death, and thy Fall <hi>Romes</hi> fall.</l>
+               </lg>
+               <byline>E. T.</byline>
+            </div>
+            <div type="anagram">
+               <head>EDWARD COLEMAN.</head>
+               <head type="sub">Anagram.</head>
+               <q>
+                  <hi>Lo a damned Crew.</hi>
+                  <bibl>Anonymus.</bibl> 
+               </q>
+               <lg>
+                  <l>This Proto-Traytor, and a <hi>damned Crew</hi>
+                  </l>
+                  <l>That follows, <hi>Lo</hi> Heavens Vengeance doth purſue.</l>
+               </lg>
+               <q>
+                  <hi>Oe mad, and Cruel.</hi>
+               </q>
+               <lg>
+                  <l>Whoſe Confeſſion, King, Kingdom, Life, all three,</l>
+                  <l>Might ſave, dies mute, <hi>Oe mad</hi> and <hi>Cruel</hi> he.</l>
+               </lg>
+               <byline>E. T.</byline>
+            </div>
+            <div type="part">
+               <div type="preface">
+                  <pb n="2" facs="tcp:99587:4" rendition="simple:additions"/>
+                  <head>The Publiſhers Preface to the following Relation of the <hi>Mahometan Aſſaſſins,</hi> and their Com<g ref="char:EOLhyphen"/>pariſon with the <hi>Roman.</hi>
+                  </head>
+                  <opener>
+                     <salute>Courteous Reader,</salute>
+                  </opener>
+                  <p>BE pleaſed to take notice that this following Hiſtory of the <hi>Maho<g ref="char:EOLhyphen"/>metan Aſſaſſins,</hi> and their Parallel with the <hi>Papal,</hi> was moſt of it inſerted in Dr. <hi>E. Tong</hi>'s <hi>Royal Martyr,</hi> as <hi>Appendix</hi> thereunto: For in the Treatiſe written partly about the Year 1672, and partly about the time of his Majeſty's gracious Declaration for Indul<g ref="char:EOLhyphen"/>gence, he endeavoured to diſcover and prevent, if poſſible, in ſome meaſure the Horrid Plots ever ſince the Reformation, and more eſpecially in the Reign of our Royal Martyr <hi>Charles</hi> the Firſt, carried on againſt the Royal Family, and ſtill continued until this day, for the ruine and deſtruction of our Religion, and therewith of our Laws, Liberties, and Proprieties, therein neceſſarily invol<g ref="char:EOLhyphen"/>ved; and charged the Roman Emiſſaries to have deſigned all along ſince the Re<g ref="char:EOLhyphen"/>formation, the Traiterous Parricide of our Proteſtant Princes, and namely, of King <hi>Charles</hi> the Firſt, as well as King <hi>James,</hi> and Queen <hi>Elizabeth,</hi> and therein endeavoured to fortify the Teſtimony of the Reverend Dr. <hi>Moulin</hi> againſt them in that particular, diſcountenanced by many, and ſo ſedulouſly ſuppreſſed by others, that when he endeavoured to promote an Edition of it about the time of the <hi>London</hi> Fire, he found it very difficult to obtain a Copy whereby it might be reprinted. And to the better awakening Publick Authority to ſuch a Diſcovery and Prevention as he intended, He judged it convenient to ſet out this Parallel of our Modern Papal, with their Anceſtors, the more Ancient <hi>Mahometan Aſſaſſins.</hi> The <hi>Mahometan</hi> cannot be denied the honour of the firſt-born of the Devil, the Murderer from the beginning in this Tribe of Regicides, though I find one of them envy him the Title, and allow him only to be an Ape of the Pope and Je<g ref="char:EOLhyphen"/>ſuits: But that theſe younger Brethren, and Succeſſors from <hi>Rome,</hi> have far out-gone him in Principles and Practices, cannot be denied, as will be more clearly made out, when Dr. <hi>Oates</hi> ſhall be at leaſure to perfect his <hi>Narrative</hi> of what he hath collected of their Practices in this kind from their own Archieves; by which it will appear, to admiration, moſt true, what <hi>John</hi> propheſied of that bloody City, That all the Blood of God's Martyrs is found in her; who hath not only publickly ſtruck at the Crowned Heads of all the <hi>Defenders of our Faith,</hi> but inceſſantly perſued and ſought to intercept all our budding Hopes, ſuch as were thoſe we conceived of <hi>Edward</hi> the Sixth, and Prince <hi>Henry.</hi> There thou wilt find that hardly any of our Royal Line hath hitherto eſcaped their Heads, or bin unattempted by them, if they came near the Succeſſion, or gave hopes of zeal for our Religion.</p>
+                  <p>This Diſcourſe now ſeaſonably, as I hope, committed to the Preſs, is in parti<g ref="char:EOLhyphen"/>cular deſigned to ſtir up our Parliament, to provide more ſtrict and effectual Means for preventing the like Attempts for the future, as in duty they are obli<g ref="char:EOLhyphen"/>ged, and to propoſe to our Princes, the generous Example of the Noble <hi>Allon,</hi> that they may diligently apply their Power and Authority, to ſuppreſs, extin<g ref="char:EOLhyphen"/>guiſh, and revenge this ſhame to Humanity, Chriſtianity, Morality, and Policy, as
+<pb n="3" facs="tcp:99587:4" rendition="simple:additions"/>well as Religion, from the face of the Earth. That Bleſſing and Succeſs with which it pleaſed God to promote the Doctor's weak Endeavours in this kind, in his former Writings, encourages him to proceed, notwithſtanding the Envy, Ma<g ref="char:EOLhyphen"/>lice, and many other great Diſcouragements he finds himſelf hereby daily more and more expoſed to. His <hi>Royal Martyr</hi> was, if not the only nor chief, yet not the leaſt Incentive to Mr. <hi>Oates</hi>'s Adventure amongſt them; who in the preſence of a Learned and Famous Divine, did call God to witneſs, That he went not into their <hi>Society</hi> to change his Religion, but to diſcover, if he could, this deteſtable Plot, of which he had ſome Hints from others, and found more fully laid out, and by Hiſtorical Obſervations on the Sufferings of <hi>Charles</hi> the Firſt from the <hi>Romaniſts,</hi> endeavoured to be made out and demonſtrated to publick view in the Doctor's ſaid Book. And as this was ſome motive to ſend him abroad, ſo the Doctor's Tranſlation of the <hi>Jeſuits Morals,</hi> (to be further diſperſed and promoted by a Satyrical Index prepared for that purpoſe, and intended to be publiſhed with the third and beſt part of thoſe <hi>Morals</hi> not yet printed) was a principal means whereby that happy Intelligencer got ſeaſonable liberty to return and diſcover this Plot: for they who had kept him ſo cloſe during his abode in <hi>London,</hi> in attendance on their Conſultations in the Month of <hi>April</hi> and <hi>May,</hi> (that he by Providence only found Teſtimony of his being here) did watch and keep him ſo ſtrictly at their College at St. <hi>Omers,</hi> till <hi>June</hi> 1678, that thereon they moſt confidently built their lately diſproved Aſſertion, <hi>That he never ſtirred thence:</hi> So that he had no other hopes left him of eſcaping their hands, than by deceiving their Malice, and undertaking to poiſon, or otherwiſe deſtroy, the Author of thoſe Books whoſe Name he concealed as unknown unto him; nor did their im<g ref="char:EOLhyphen"/>potent Malice, which prompted them to ſuch a barbarity, ſuffer him to return to his Native Country on that Errand, till they had loaden his Soul and Con<g ref="char:EOLhyphen"/>ſcience with an Oath to poiſon, or otherwiſe deſtroy him, ſealed with their abo<g ref="char:EOLhyphen"/>minable Sacrament of the Maſs; by which they thought themſelves infallibly aſſured, either to deſtroy the Doctor's Life, or his Soul. God of his infinite Mercy to his Majeſty, theſe Churches and Kingdoms, hath thus far preſerved us; If henceforth either by our own froward Contentions, or negligent Spirits, we fruſtrate the opportunity he hath opened for our eſcape, and attend not after Gra<g ref="char:EOLhyphen"/>titude to God, Loyalty to our Prince, and mutual Charity and Toleration, the means of preſerving and uniting God's Servants, and his Majeſty's true Lieges; (ſo many as are found amongſt us, in that Bond of Chriſt's Perfection and Strength) and to ſuch proviſion and execution of good Laws, as may utterly ex<g ref="char:EOLhyphen"/>terminate and extinguiſh this curſed order of barbarous bloody Popiſh Regicides, Aſſaſſins, Spies, and Incendiaries, our ſecond Error will be certainly worſe than the firſt, and we ſhall juſtly provoke God, by tempting him, through neglect of Means, ſo unexpectedly offered us, to give us up to that folly which is the im<g ref="char:EOLhyphen"/>mediate forerunner of a certain ruin; which God of his unexpreſſable undeſerved Mercy prevent. <hi>Amen.</hi>
+                  </p>
+                  <p>As for the Doctor, he doth boldly proteſt, <hi>Liberavi animam meam,</hi> that he hath, by conſtant attendance on Parliament, according to his Station, for many Years, offered certain and infallible Means, for the execution of all good Laws, wiſely contrived by our Anceſtors, for the Glory of God, Honour and Safety of our King and Kingdom, and defeated in a great part by negligence in their dege<g ref="char:EOLhyphen"/>nerate Poſterity.</p>
+               </div>
+               <div type="account">
+                  <pb n="4" facs="tcp:99587:5" rendition="simple:additions"/>
+                  <head>The Aſſaſſins.</head>
+                  <p>WE have it from good Authority,
+<note place="margin">
+                        <hi>Mat. Paris,</hi> p. 83. <hi>Hen. Spelman, Gloſſarium, Aſſaſins.</hi>
+                     </note> (ſaith a Modern Hiſto<g ref="char:EOLhyphen"/>rian, whoſe Authors are in the Margin, as he quotes them) that there was formerly a Sect amongſt the <hi>Turks,</hi> called <hi>Aſſaſini,</hi> (whence we ſay to <hi>Aſſaſinate</hi>) They lived in the Mountains of <hi>Phaenicia</hi> towards <hi>Tyre.</hi> Their Government and chiefeſt Laws were theſe:</p>
+                  <p>Their Governor, or Maſter, was not Hereditary, but Elective.</p>
+                  <p>He, under the notion of Humility, as if he would be only the Servant of Ser<g ref="char:EOLhyphen"/>vants, refuſed all lofty Titles, being only called, <hi>The Old Man of the Moun<g ref="char:EOLhyphen"/>tains.</hi>
+                  </p>
+                  <p>He was honoured and worſhipped as Vicar of <hi>Mahomet,</hi> and ſo their Father and Prophet.</p>
+                  <p>They pretended to be ſuch exact obſervers of their <hi>Turkiſh</hi> and <hi>Mahometan</hi> Laws, that all others ſeemed but as meer Cheats, or <hi>Nonconformiſts</hi> in reſpect of them.</p>
+                  <p>They were led with that blind Obedience, that they never queſtioned their Maſter's Commands, were the Action never ſo dangerous, difficult, or wicked; and they never left off till it was finiſhed.</p>
+                  <p>Any Prince whom they either hated, or thought to be no Friend to them, or their Party, upon the leaſt hint they would murder, though they were ſure to ſuffer for it.</p>
+                  <p>Whoſoever murdered a Prince that was not of their Religion, they believed him to have the ſecond Place, next to <hi>Mahomet,</hi> in <hi>Paradiſe.</hi>
+                  </p>
+                  <p>For they alſo believe that the Old Man, their Head and Prophet, could alſo diſpoſe of <hi>Paradiſe.</hi>
+                  </p>
+                  <p>'Tis ſaid that this Sect was long ago deſtroyed by the <hi>Tartars;</hi> and whether any who call themſelves <hi>Chriſtians</hi> have eſpouſed their Tenents, I ſhall not ſay. <hi>Thus far my Author.</hi>
+                  </p>
+                  <div type="section">
+                     <head>Marcus Paulus Venetus, <hi>in his firſt Book of the Eaſtern Regions,</hi> Chap. 27. <hi>gives us this Relation of the Mahometan Cut-throats, whom they called</hi> Aſſaſins.</head>
+                     <p>A Certain petty Lord of thoſe Countries, commonly called <hi>The Old Man of the Mountains,</hi> a <hi>Mahometan,</hi> joined unto him a number of Cut-throats, whom they vulgarly called <hi>Aſſaſins,</hi> and by their untameable boldneſs, killed whom he pleaſed, ſo that in a ſhort time he became a terror to all. Now, he brought that about by this Impoſture. There was in that Country a certain moſt pleaſant Valley, encompaſſed round with very high Mountains; within which he planted a very great and pleaſant Garden, repleniſhed with odoriferous Flow<g ref="char:EOLhyphen"/>ers, ſweet Fruits, and other delightful Herbs. He built alſo in that Garden cer<g ref="char:EOLhyphen"/>tain extraordinary Palaces, wonderfully adorned with Pictures, and ſpared no<g ref="char:EOLhyphen"/>thing that might be for ornament unto them. Neither was there wanting to that Garden, and thoſe Palaces, divers running Streams flowing with Water, Hony,
+<pb n="5" facs="tcp:99587:5" rendition="simple:additions"/>Wine, and Milk; nor divers Inſtruments of Artificial Muſick, with mellodious Tunes and Songs; Dancings, Vaultings, Wreſtlings; rich Garments, and won<g ref="char:EOLhyphen"/>derful proviſion of all delightful Things; not to ſtand in enumerating other car<g ref="char:EOLhyphen"/>nal and fleſhly Pleaſures, (for ſo this modeſt Author paſſeth over all the other ſenſual Luſts, rather than Pleaſures, wherewith the brutiſh Fancy of that Impoſtor <hi>Mahomet,</hi> did accommodate both his Laws, and <hi>Paradiſe</hi> it ſelf, unto his rude and barbarous Diſciples). All which certain young Men, there placed by him, did enjoy, according as they beſt liked; neither had they any other Im<g ref="char:EOLhyphen"/>ploiment, than to live and enjoy that happy Life, giving no place to any Grief. There was alſo a very ſtrong Caſtle purpoſely erected in the entrance of this Garden, kept and ſtrengthned with a diligent Guard. The Ingreſs and Egreſs of this Garden lay through this Caſtle.</p>
+                     <p>This Old Man, whoſe Name was <hi>Aloadin,</hi> kept alſo certain young and va<g ref="char:EOLhyphen"/>liant Men, of bold and undaunted Spirit, whom he did train up to this very purpoſe, that they might execute that deteſtable deſign which he had formed in his Mind. He took care to have them inſtructed in the wicked Law of <hi>Mahomet;</hi> with promiſes to ſuch as obſerve and keep it, of all carnal Pleaſures in the Life to come. And that he might make them more obedient to him, and to undertake any thing he pleaſed, at the peril of their Lives. He, at his pleaſure, cauſed them, or ſome of them, to have a certain Drink given them; by which they be<g ref="char:EOLhyphen"/>ing intoxicated, became ſenſleſs, and oppreſſed with heavy and deep ſleep: In the mean time they were brought into that Garden, who, their ſleep being over, when they ſaw themſelves converſe and live amongſt ſuch great pleaſures, they alſo thought themſelves to be caught up into the Paradiſe of God, to live with <hi>Mahomet</hi> their Law-giver, and to enjoy thoſe Delights which he promiſed them; to ſay no more, they rejoiced that they were delivered out of the miſeries of the World, and now did live another and bleſſed Life. But after they had, for a few days, bin made acquainted with theſe Pleaſures, the Old Man gave again, to ſuch as he pleaſed, to drink of the aforeſaid intoxicating Drink, and brought them, being thereby made ſenſleſs, back again out of that <hi>Paradiſe.</hi> They then, when come to themſelves, remembring what and how great Pleaſures they had for a little time enjoyed, grieved above meaſure, and were made exceeding ſad, That they were not allowed the perpetual enjoyment of thoſe Delights; and were willing to undergo Death it ſelf, ſo they might always lead that life they had only a little taſted. Then the Tyrant, who feigned himſelf to be a Pro<g ref="char:EOLhyphen"/>phet of God, ſaid unto them, <hi>Hear me, and be not ſad, If you be ready to under<g ref="char:EOLhyphen"/>go Death without fear, when it ſhall be inflicted on you for your Obedience unto me, I declare, and promiſe you, That you ſhall be made partakers of thoſe Joys which you ſaw only for a ſeaſon.</hi> So theſe wretched Men, accounting Death as Gain, there could be nothing ſo hard enjoined them, which they would not willingly undergo to attain this bleſſed Life. This Tyrant therefore abuſed the ſaid Men to the committing of innumerable Murders, becauſe they proſtituting their tem<g ref="char:EOLhyphen"/>poral Lives, contemned Death it ſelf; and did, at the command of that Ty<g ref="char:EOLhyphen"/>rant, make ſuch havock and deſtruction all about in that Country, that they were formidable to all Men, and no Man durſt reſiſt their madneſs; ſo it came to paſs, that many Countries and powerful Perſons became tributary to that Tyrant.</p>
+                  </div>
+                  <div type="section">
+                     <head>
+                        <hi>CHAP.</hi> 29.</head>
+                     <p>But in the Year of our Lord 1262, <hi>Allan,</hi> King of the <hi>Tartars,</hi> with a mighty Army beſieged the Caſtle of this Tyrant, deſirous to exterminate ſo great a Danger out of thoſe Parts where he lived; and after three Years took him, with all his <hi>Aſſaſſins,</hi> for Victuals failed them, and utterly deſtroyed the Place, and killed the Men.</p>
+                     <pb n="6" facs="tcp:99587:6" rendition="simple:additions"/>
+                     <p>Some <hi>Mahometan</hi> Writers do ſay, That the Siege continued above thirty Years, and that they were compelled to ſurrender, not for want of Victuals, but of Cloathing.</p>
+                     <p>
+                        <hi>Haitho</hi> the <hi>Armenian,</hi> who was preſent in the <hi>Tartarian</hi> Army, tells us who this <hi>Allan</hi> was; and that albeit he made his Conqueſts of <hi>Perſia,</hi> and the Neigh<g ref="char:EOLhyphen"/>bour Countries in a few Years, yet the <hi>Aſſaſſins</hi> held out in a long Siege. His words in his 24th Chapter of his <hi>Eaſtern Hiſtory</hi> are theſe:</p>
+                     <p>
+                        <hi>Haolon (Marcus Paulus Venetus</hi> calls him <hi>Allan</hi>) Brother to <hi>Mango Can,</hi> took all thoſe Countries, (in the Empire of <hi>Perſia</hi> and its Confines) until he came to the Country of the <hi>Aſſaſſins.</hi> Now theſe <hi>Aſſaſſins</hi> are <hi>Infidels</hi> that have nei<g ref="char:EOLhyphen"/>ther Law nor Faith, but only ſo as their Prince and Lord inſtructed them, who was called <hi>Sexmontius</hi> (or perhaps <hi>Senex de Montibus,</hi> the <hi>Old Man of the Moun<g ref="char:EOLhyphen"/>tains,</hi> (as <hi>Marcus Paulus Venetus</hi>) or, <hi>Lord of the Six Mountains</hi>) at whoſe plea<g ref="char:EOLhyphen"/>ſure and command they did freely and readily give up themſelves to Death. For the aforeſaid <hi>Aſſaſſins,</hi> had a certain invincible Fort, called <hi>Tigado;</hi> which Fort, or Caſtle, was provided of all Neceſſaries, and ſo ſtrong, that it could not be aſſaulted on any ſide. <hi>Haolon</hi> therefore commanded a certain Captain of thoſe <hi>Tartars,</hi> who were the Guard of the Kingdom of <hi>Perſia,</hi> which he had ſubdued, ſent thither by him, to take ten thouſand of them, and with them to beſiege that Caſtle, and by no means to depart from it till he had taken it. Thence it came to paſs that thoſe <hi>Tartars</hi> continued in that Siege Summer and Winter for the ſpace of 27 Years. And ſo at length the <hi>Aſſaſſins</hi> were compelled to ſurren<g ref="char:EOLhyphen"/>der their Fortreſs, only for want of Cloathing, and not for want of Victuals, or any other Cauſe.</p>
+                  </div>
+                  <div type="section">
+                     <p>The Application of this Story, I ſhall leave to the ingenuity of the Reader, after he hath read and farther conſidered this, with the foregoing brief Deſcrip<g ref="char:EOLhyphen"/>tion of this <hi>Mahometan</hi> Sect, and their Order, as I find them deſcribed in another Writer, and premiſed them for that purpoſe, and compared them with the words of a Father of the Society of <hi>Jeſus,</hi> very little varied: For whereas he ſpeaking of I know not what <hi>Mahometan Tartars,</hi> and their Mufti, or Prince, affirms, that <hi>he did in all things apiſhly imitate the Church of</hi> Rome, <hi>in Matters of Piety,</hi> I muſt here affirm, That as the Court of <hi>Rome,</hi> and their Diſciples, do too Diabolically, in too many things, imitate this <hi>Mahometan</hi> Tyrant in Matters of Idolatry; So that of the Pope and his Aſſaſſins, the murdering Society of Cut<g ref="char:EOLhyphen"/>throat Jeſuits, the Old Gentleman of the Seven Mountains, and his Life-Guards, I may well ſay, Like Lips, like Letters; like Prince, like People; like Miſtreſs, like Gallants; Ruffian Cut-throat Bravoes to vindicate the Quarrels of the Scarlet bloody-minded Whore. The Devil who held the whole World ſub<g ref="char:EOLhyphen"/>jected unto his Tyranny (by the fear of Death, and Terror of the Sword) before our Saviour came, and deſtroyed his Works, ſeeks now to recover thoſe Parts of his Dominions that are revolted from him by Fire and Sword. So the <hi>Maho<g ref="char:EOLhyphen"/>metan</hi> and <hi>Popiſh</hi> Tyrants reign, and propagate their Kingdoms by the Sword, and their Religions too.</p>
+                     <q>Neque enim alia his virtus, quam quaerere, parta tueri.</q>
+                     <p>The Pope as he is a <hi>Chimera,</hi> made up of ſeveral brutiſh Powers and Parts, ſo his Chimerical Kingdom, part Civil, part Eccleſiaſtical, part Spiritual, wars up<g ref="char:EOLhyphen"/>on his Adverſaries by Weapons of all theſe ſorts at once, with the Sword of his <hi>Aſſaſſin</hi> Monks and Jeſuits, Biſhops, Arch-Biſhops, and all Miſſionaries, ſworn Foes to all his Enemies at his Altars (as <hi>Hanibal</hi> of old by his Father againſt <hi>Rome</hi>) before he ſend them thence, againſt their Lives: With theſe alſo, and other Inſtruments, againſt their Policy, and with his Spiritual Engines, Lyes
+<pb n="7" facs="tcp:99587:6" rendition="simple:additions"/>in Hypocriſy, lying Wonders, counterfeit Piety, and the like, againſt their Souls and Spirituals. But let no Man be deceived by them, the Devil is never more a Devil, than when transformed into the ſacred appearance of an Angel of Light; nor his Miniſters leſs, but more Miniſters of Satan, for pretending and appearing as Miniſters of Chriſt. By theſe Works they may be known; The <hi>Roman</hi> Wolf, for all his Sheeps Cloathing, is eaſily diſcerned by us, by his devou<g ref="char:EOLhyphen"/>ring Teeth, and bloody Chaps, from a Shepherd. The Dragon in the <hi>Revelation,</hi> who though he had the Lamb's Voice and Horns, had the Dragon's beaſtly and dreadful Shape, devouring Mouth, and formidable Claws, could not poſſibly be miſtaken for Chriſt's Vicar by any, but who had firſt given up their Faith to ly<g ref="char:EOLhyphen"/>ing Legends; Reaſon, to his ſeducing Orators; and Senſe, to his jugling Impo<g ref="char:EOLhyphen"/>ſtors, to be led by their Noſes into his Mouth. A ſtrange Religion in the mean time that is, which requires for its firſt Principle, that ye unman your ſelf, re<g ref="char:EOLhyphen"/>nounce Senſe and Reaſon, not in Matters of Faith, but in thoſe which are moſt properly by God and Nature ſubjected and objected to them. And that they may worſhip Stocks, firſt transform themſelves into Blocks. This <hi>Roman Circe,</hi> to the end that ſhe may keep Men in Vaſſalage, under her filthy Luſts of Pride, Ambition and Tyranny, to ſerve her in thoſe her unſatiable Paſſions, turns all her Lovers into every Brutal and Feral Shape and Nature, the fartheſt ſhe can poſſible from that of Humane and Rational: Some ſhe indulges with Wine and Women, till they be transformed to Swine and Dogs; ſome ſhe tranſports with the fury of her Love, into ravenous and devouring Wolves, Bears, and Lions. Such were the Powder-Traytors, and the Aſſaſſins we ſpeak of. And here follows one of her Spells, whereby ſhe practiſes to make thoſe prodigious Metamorphoſes which are hardly to be believed by any who have not bin ſad Spectacles, or Spe<g ref="char:EOLhyphen"/>ctators at leaſt of her Sorceries.</p>
+                     <p>In this, as in a Mirror, we may partly ſee how ouR brave Engliſh Spirits of the nobleſt Families (ſuch as Sir <hi>Everard Digby</hi> appears to have bin by his Letters) are tranſported by them to ſuch Extaſies of horrid Zeal, as to blow up whole Kingdoms, Kings, and Royal Families, with their Parliaments, at once; and think ſuch a Deſign to be the beſt of Cauſes, and the moſt glorious Undertaking that ever animated Heroick Breſts; and to eſteem Kings, Princes, Nobles, and all the choice Gentry of their Native Country, whereof many were their neareſt Relations and Allies, as ſo many Vermin not worthy the leaſt pitty, not worth the ſaving. And I think, on this occaſion, it will not be improper for me to re<g ref="char:EOLhyphen"/>cord, <hi>Julius Caeſar Vaninus,</hi> a Noble <hi>Spaniard,</hi> and Doctor of both their Laws, the Civil and Canon, amongſt our Powder-Traytors, who is ſo far from denying, that he glories and boaſts of it, not doubting to compare himſelf for it with, and aſſume to himſelf the ſame fervour of ſacred Zeal and Charity, which at once animates and illuſtrates the moſt Holy Martyrs. His words which I have inſer<g ref="char:EOLhyphen"/>ted in the Margent, with the Title and Edition of his Book, which he wrote ſome ten Years before, namely, the Year after the Powder-Treaſon, ſounds thus.</p>
+                     <q>
+                        <p>I the very leaſt Novice of the Church Militant, being the laſt Year appointed and ſent to <hi>London,</hi> to be there exerci<g ref="char:EOLhyphen"/>ſed in the Chriſtian Prize-Games, la<g ref="char:EOLhyphen"/>boured in that place of Exerciſe 49 days, in cutting of Stones, <hi>(he meant the Walls under the Parliament Houſe);</hi> I was kindled and flamed with that deſire of ſhedding my Blood for the defence of the Authority of the Catholick Church,
+<pb n="8" facs="tcp:99587:7" rendition="simple:additions"/>that no greater nor better Gift, from God Almighty, could have be fallen me; So that I was judged, by the Teſtimo<g ref="char:EOLhyphen"/>ny of my own, and the Conſcience of my Fraternity, who were exerciſed with me in the ſame Vault and Theatre, if not Superior, at leaſt not to have bin In<g ref="char:EOLhyphen"/>ferior to any Martyr.</p>
+                     </q>
+                     <q>
+                        <bibl>
+                           <hi>Amphitheatrum aeternae providentiae</hi> Lugduni 1615. <hi>Exercitatione</hi> 19. p. 115, 116.</bibl> 
+                        <hi>Martyrii virtus quae in charitate con<g ref="char:EOLhyphen"/>ſiſtit à confeſſore aliquando perfectior quam à Martyre poſſidetur. Quis enim inficias eat, ſi non illuſtriori pari ſaltim Martyrii vir<g ref="char:EOLhyphen"/>tute charitate<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> praeditum fuiſſe D.</hi> Jo. <hi>E<g ref="char:EOLhyphen"/>vangeliſtam, at<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> ex Martyribus aliquem? Ego ſane vel minimus Militantis Eccleſiae Tyro, cum Anno praeterito</hi> Londini <hi>ad ago<g ref="char:EOLhyphen"/>nem Chriſtianum deſtinatus eſſem, adeoque</hi> 49 <hi>diebus in latomtis tanquam Paleſtra qua<g ref="char:EOLhyphen"/>dam exercerer ea eram pro Catholicae Eccle<g ref="char:EOLhyphen"/>ſiae Authoritate defenſanda effundendi ſan<g ref="char:EOLhyphen"/>guinis deſiderio accenſus &amp; inflammatus, ut mihi à Deo immortalivel majus donum vel melius contingere nullo modo potuiſſet, ita quidem ſi non ſuperiorem, inferiorem certe nullo martyre propriae Conſcientiae Teſtimo<g ref="char:EOLhyphen"/>nium me judicavit &amp; confratrum, qui mecum in eadem erant Xſto &amp; Theatro, for<g ref="char:EOLhyphen"/>tiſſimi &amp; digni ſane qui tale Deo ſpectaculum, exhiberent. Id. Ibid Exercitatione VIII. p.</hi> 71. He intimates his Country and Nobility.</q>
+                     <p>And he concludes with great applauſe to himſelf, and his Comrogue <hi>Roman Miſſionaries,</hi> the trayterous Underminers of the ſaid Palace, as who for their Zeal and Valour, were Spectacles worthy of the Obſervation, not only of Angels and Men, (as St. <hi>Paul</hi> ſpeaks in honour of the Holy Apoſtles) but the reſpect of the holy Eye of God himſelf, (he means in the act of blowing up K. &amp; Parliament.)</p>
+                     <p>But here I muſt certify the Reader, to the Glory of the Juſtice and Purity of that Heavenly Eye, which ſtill watcheth over our Kings and Kingdoms, with a moſt ſweet and merciful Providence, and purſues ſuch prodigious Traytors with condign Severity and Vengeance; that albeit this Noble <hi>Spaniſh</hi> Doctor eſcaped both the Hand and Eye of Royal Juſtice in <hi>England,</hi> (whoſe diligence ought for ever to be commended as exemplary to all Poſterity) yet did he not eſcape from, but was purſued by the Eye and Hand of Divine Juſtice, to a moſt dreadful, ſhameful, untimely Death, by the Authority of the Church, for which he was ſo ambitious to ſhed his Blood, and was burnt alive as an unparallel'd Heretick, and died a profeſſed Martyr, beyond all example; not in confirmation, as I ſaid before of the Authority of <hi>Rome,</hi> and her Errors, againſt the truth of Religion, Policy, and Morality, with the Powder Traytors, as he deſerved and deſired; but, which is horrid to be ſpoken, gave up his Life in the Flames, a Teſtimony and Witneſs againſt all Religion, and God himſelf; an obſtinate and execrable Heretick and Atheiſt, being given up by God to that reprobate Senſe, whereby ill Men, Seducers and Seduced, are juſtly ſuffered to fall into Temptations above their ſtrength, (from which the humble and pentient are by his Grace, in Anſwer to their daily Prayers, delivered) whereby they inevitably grow worſe and worſe, till having filled up the meaſure of their Sins, they draw on themſelves propor<g ref="char:EOLhyphen"/>tionable Judgments. And in theſe, whether we reſpect Sin and Puniſhment, and this Spiritual or Temporal, no Perſon, Place, or Age, hath furniſhed us with any Example parallel to this Powder-Traytor <hi>Julius Caeſar Vaninus;</hi> nor which ought to ſtrike more terror into the minds of the Seduced Followers of the Mo<g ref="char:EOLhyphen"/>dern Impoſtors, for he, I ſay, their Diſ<g ref="char:EOLhyphen"/>ciple, and who praiſes them above all Societies of the World, as appears in his own words in the Margent;<note place="margin">Julius Caeſar Vaninus, <hi>in Epiſt. ad Lectorem,</hi> p. 2. <hi>Cencidunt, inquam, &amp; poſſum feruntur Haereſes, quia Militantis Eccleſiae fortiſſimi heroes ii, quos è Societa<g ref="char:EOLhyphen"/>te Jeſu ducimus, ad illas profligandas ex<g ref="char:EOLhyphen"/>cindendaſ<expan>
+                                 <am>
+                                    <g ref="char:abque"/>
+                                 </am>
+                                 <ex>que</ex>
+                              </expan> omnes ammi &amp; corporis adhi<g ref="char:EOLhyphen"/>bent Machinationes. Bella arma fulmen illud Chriſtianae Militiae,</hi> Bellarminus R. Card. <hi>Meritiſſimus minatus eſt,</hi> &amp;c. Va<g ref="char:EOLhyphen"/>lentia <hi>vero,</hi> Becanus, Ducaeus, Suarez, <hi>alii<expan>
+                                 <am>
+                                    <g ref="char:abque"/>
+                                 </am>
+                                 <ex>que</ex>
+                              </expan> complures ejuſdem Sanctiſſimae Reli<g ref="char:EOLhyphen"/>gionis Commilitones quoties pro Gatholica Fide quam glorioſis adverſus Haereſes quam periculoſis demicationibus decertarunt? Quam ipſos Adverſarios cruentarunt, quam profligarunt? It<expan>
+                                 <am>
+                                    <g ref="char:abque"/>
+                                 </am>
+                                 <ex>que</ex>
+                              </expan> ego haec graviſſi<g ref="char:EOLhyphen"/>mis aliis perſuaſus Argumentis, caeteros quidem variarum Religionum ordines quo vitae integritate, qua diſciplinorum cogni<g ref="char:EOLhyphen"/>tione, qua deni<expan>
+                                 <am>
+                                    <g ref="char:abque"/>
+                                 </am>
+                                 <ex>que</ex>
+                              </expan> virtutum omnium excel<g ref="char:EOLhyphen"/>lentia exornatos elegantiſſime &amp; graviſſime ſtabilitos, ipſam vero Jeſu Societatem pie<g ref="char:EOLhyphen"/>tatis &amp; eruditionis parentem at<expan>
+                                 <am>
+                                    <g ref="char:abque"/>
+                                 </am>
+                                 <ex>que</ex>
+                              </expan> altricem, Romanae Eccleſiae &amp; ſplendori fuiſſe, &amp; ornamento, ipſam<expan>
+                                 <am>
+                                    <g ref="char:abque"/>
+                                 </am>
+                                 <ex>que</ex>
+                              </expan> Dei immortalis munere tanquam Romanae Eccleſiae Palladium, cae<g ref="char:EOLhyphen"/>terarum Religionum Columen, totius Uni<g ref="char:EOLhyphen"/>verſitatis Anchoram Hominibus eſſe conceſ<g ref="char:EOLhyphen"/>ſum,</hi> &amp;c.</note> he only of all Mankind died obſtinately, and gloried in being a Martyr for Atheiſm, and a profeſſed enemy of God, and all Religion; ſo brought about by God's Juſtice, that we and the whole World might ſee, in this dreadful Inſtance, whi<g ref="char:EOLhyphen"/>ther the deſperate Principles of the <hi>Roman Emiſſaries</hi> lead their Diſciples and Profelytes when left to themſelves.
+<pb n="9" facs="tcp:99587:7"/>As for Father <hi>Parſons,</hi> who in his old Age boaſted publickly, in the Jeſuits College at <hi>Rome,</hi> as our <hi>Spaniſh</hi> Do<g ref="char:EOLhyphen"/>ctor here, That he had wrought in the Powder-Mine at <hi>London,</hi> And all the reſt who eſcaped God's juſt revenging Hand in this World, let them ſtand for <gap reason="foreign" resp="#OXF">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>, demonſtrative Tokens and Evidences unto us, as the Apoſtle teaches us, 2 <hi>Theſſ.</hi> 1.5. of the im<g ref="char:EOLhyphen"/>partial Judgment to come, wherein all Men ſhall ſtand before Chriſt's Tri<g ref="char:EOLhyphen"/>bunal, and there receive righteous Judgment, according to what they have done in the Fleſh, whether it be good or evil.</p>
+                     <p>Here follows one of the Charms, or Exorciſms, by which our Country-men, this noble <hi>Spaniſh</hi> Doctor, and ſuch other audacious Spirits, as they find moſt fit for their horrid Deſigns, are in their Chambers of Meditation, and other Receſſes of Darkneſs, conjured up gradually to that prodigious Fury, as to think that in bloody Aſſaſſinations of Kings and Princes, and mercileſs blowing up of Kingdoms, they do acceptable Service to God, and merit everlaſting Life.</p>
+                  </div>
+               </div>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>A Secret Myſtery of the Jeſuits, delivered in</hi> French <hi>to a lover of the Reformed Religion, ſhortly after the murder of</hi> Henry <hi>the</hi> 4th, <hi>late King of</hi> France.</head>
+               <p>WHen they perſuaded any Man to murder his King or Prince; af<g ref="char:EOLhyphen"/>ter that this poor and unfortunate Man is entred into their
+<note n="*" place="margin">
+                     <p>
+                        <hi>The</hi> Chamber of Meditations, <hi>by which the Jeſuits prepare, fit, and train up their Aſſaſſins, to theſe Myſteries, is thus ſhortly deſcribed, in a</hi> French <hi>Treatiſe printed</hi> 1602; <hi>whoſe Title is,</hi> La Franc et veritable Diſcours, <hi>&amp;c. written to diſſuade</hi> Henry <hi>the</hi> 4th <hi>of</hi> France, <hi>from reſtoring the baniſhed Jeſuits into</hi> France, <hi>in his</hi> 37 <hi>page, in theſe words.</hi>
+                     </p>
+                     <p>Chaſtell, <hi>who attempted to kill</hi> Hen. 4. <hi>of</hi> France, <hi>asked by the ſaid Senators, if he had ever bin in the Chamber of Meditations, into which the Jeſuits bring the moſt grievous Sinners; in which Chamber they ſet before them, and cauſe them to behold the hideous portratures and ſhapes of Devils of ſundry moſt terrible Figures, under a colour of reducing them to a better courſe of Life; but indeed andetruth, to diſorder and diſtract their Minds, in ſuch manner, that they may be able, by ſuch Admonitions and Advice as they give them, to atchieve or undertake ſome great Deſign. He anſwered them, That he had bin often in that</hi> Chamber of Meditations. <hi>So they call it, but it might better and more truly be ſtiled,</hi> The School of Fury and Madneſs.</p>
+                  </note> 
+                  <hi>Chamber of Medi<g ref="char:EOLhyphen"/>tation and Prayer,</hi> this helliſh Brood bring forth a Knife, wound up in a</p>
+               <p>
+                  <hi>Chaſtel enquis</hi> (by more than three hundred Senators of the Parliament of <hi>Paris,</hi> a Cloud of ſufficient Witneſſes) <hi>S' if n'avoit pas eſſe en la Chambre des Meditations, on les Ieſuits intre<g ref="char:EOLhyphen"/>diuſoient les plus grands pecheurs, qui voyoint en icelle Chambre les pour<g ref="char:EOLhyphen"/>traits de pluſieurs diables de diverſes figures eſpouvantables ſous coleur de les reduire en meillieure me, pours esbranler leurs eſprits, &amp; les pouſſer par telles admonitions a faire quelque grand cas. A dit quilavoit eſte ſouvent en cette Chambre,</hi> &amp;c.</p>
+               <p>Scarf, in an Ivory Sheath, cover'd with an <hi>Agnus Dei,</hi> written round about with perfum'd Characters; and when they draw out the ſaid Knife, they caſt certain
+<pb n="10" facs="tcp:99587:8"/>drops of Holy Water upon it, and then they hang upon the Haft of the Knife five or ſix bleſſed Corals, which betokeneth that the Man ſhall deliver ſo many bleſſed Souls out of Purgatory, as he ſhall give thruſts with the Knife: When they deliver the Knife into the Murderers Hands, they ſpeak theſe words: <hi>Choſen and Elect Child of God, go forth like unto</hi> Jeptha; <hi>the Sword of</hi> Sampſon; <hi>the Sword wherewith</hi> David <hi>did cut off the Head of</hi> Goliah; <hi>the Sword of</hi> Gideon; <hi>the Sword wherewith</hi> Judith <hi>did cut off the Head of</hi> Holofernes; <hi>the Sword of the</hi> Maccabees; <hi>and the Sword wherewith</hi> Peter <hi>did cut off</hi> Malucha<hi>'s Ear; the Sword of Pope</hi> Julius <hi>the</hi> 2d, <hi>wherewith he conquer'd</hi> Imole, Fayence, Friuli, Bologne, <hi>and divers others: Go forth, and be of active Courage, God ſtrengthen thy Arm.</hi> This done, they fall down on their Knees, and the chiefeſt of them conjurath on this manner; <hi>Come Chirubims, come Seraphims, Thrones that rule; come the fortunate and bleſſed Angels, Angels of Love, and fill this Holy Veſſel with Eternal Glory, and bring him preſently the Crown of the Virgin</hi> Mary, <hi>of the Patriarchs, and of the Mattyrs, for he is no longer ours.</hi> And then they ſay, <hi>O powerful and invincible God, who haſt revealed unto him in his Prayers and Meditations, that he muſt kill a Tyrant Heretick, to ſet the Crown upon the Head of a Catholick King, being diſpoſed and perſuaded to this Murder by us, ſtrengthen his Sinews, and multiply his Strength, that he may fulfil thy Will; give him a privy earneſt (Token), whereby he may eſcape from them that would lay bands upon him; give him Wings, that the Spies of the Barbarous may not overtake his Sanctified Members; dart forth thy fiery Beams into his Soul, that thereby his Body may be encouraged boldly to preſs through all Difficulties without fear.</hi>
+               </p>
+               <p>Having ended this Conjuration, they lead him before an Altar, where they ſhew him in a Picture, how the Angel took up <hi>Jaques Clement Jacobine,</hi> preſenting him before the Throne of God, and ſaying, <hi>Lord, behold thy own Arm; behold thy Revenge, and the Executioner of thy Juſtice; and all the Saints ſtand up and give him room.</hi> All this being done, no Man may ſpeak with this Man but four Jeſuits, who when they come to him, ſay, <hi>That he appeareth to them as having ſome Divine Nature and God-head; and that they are ſo ſtrucken and moved with the brightneſs thereof, that they kiſs his Hands and his Feet, accounting him no longer a Man;</hi> and they make a ſhew, as if they did half envy him his good Fortune and Glory which he poſſeſſeth already, fetching a deep ſigh, and ſaying unto him, <hi>I would that God had choſen me in this place, for then I ſhould be aſſured to go directly to Paradiſe, and not into Purgatory.</hi>
+               </p>
+               <div type="subpart">
+                  <head>To the Reader of the following Informations and Depoſitions.</head>
+                  <p>LEt no Man flatter himſelf, as if <hi>Rome</hi> were aſhamed, or had left off the exerciſe of thoſe her Impious Frauds in our days, becauſe theſe Works of Darkneſs are not practiſed in the Face of the Sun, or Men were grown more wiſe and vertuous in this Age than the former. The following Paper (not to ſpeak of what is in every Mouth) teſtifies, That as they never want Encourage<g ref="char:EOLhyphen"/>ments, ſo they can never want Inſtruments for the moſt horrid and cruel Aſſaſſi<g ref="char:EOLhyphen"/>nations of Kings and Nobles, as well as inferior Perſons, who with them are of no better eſteem than Dogs, or moſt noiſome Vermine, when they oppoſe their infatiable Luſts, which they call <hi>Religion,</hi> or cover with pretences of Piety.</p>
+                  <p>If any Man be offended with what I have ſmartly written, and endeavoured to expoſe to publick ſcorn and hate of the Doctrines and Practices of the Jeſuits, abominable to God and Man, as ſome Tranſlations of that kind have bin deni<g ref="char:EOLhyphen"/>ed publick Licenſe and Light, as they well deſerved, had they aimed at any other end than that of publick Juſtice, which allows the moſt deteſtable Practices to be ſpoken out in the audience of all the People. If any be offended, I ſay,
+<pb n="11" facs="tcp:99587:8" rendition="simple:additions"/>I would be bould to add one word to them, which is this, That all thoſe Vil<g ref="char:EOLhyphen"/>lanies of Cruelty, Aſſaſſination, and the Gunpowder Blow it ſelf, had it taken effect; the poiſon of King <hi>James,</hi> if true; the Martyrdom of <hi>Charles</hi> the Firſt; the Maſſacre of <hi>Ireland;</hi> the intended Poiſoning or Aſſaſſination of his Majeſty <hi>Charles</hi> the Second, whom God preſerve; and with him the Maſſacre of hun<g ref="char:EOLhyphen"/>dreds of thouſands of his Innocent Subjects, illuſtrated by <hi>London</hi> Flames, cannot be ſo juſtly laid by Man to them, nor can nor will be ſo ſeverely required by God at the laſt day, at the hands of theſe <hi>Roman Miſſionaries,</hi> and their Diſciples, the ſworn <hi>Legionaries,</hi> and Spies of the Popes, and Court of <hi>Rome,</hi> to whom they are obliged as Subjects, by all Ties Sacred and Humane, of Religion, Love, Gratitude, Glory, and hope of Salvation; as to them, who contrary to Oaths, Law, Juſtice, and Intereſt of their Country, admit, harbour, entertain, plead for, favour, and ſhelter them, and diſcourage the Informers and Proſecutors, whom Zeal to publick Good hath preſſed to diſcover and purſue them, at the ex<g ref="char:EOLhyphen"/>treme peril of their Lives. Let the Caſe be put for Spies ſent into any Enemy's Country, by any Prince, if they came as Spies, and ſo deſerve Death, much more thoſe that know and receive them.</p>
+                  <p>I'ts no leſs, than a common Proverb, <hi>Receivers make Thieves;</hi> and in our caſe make Aſſaſſins, Traitors, Murderers, Poiſoners, and Incendiaries.</p>
+                  <p>Here the Doctor concludes with the proteſtation of his Innocency, That he is ready to tender an Act of Parliament, which will put all the good Laws of <hi>England</hi> into infallible Execution, to the Glory of God, Preſervation of the King, Kingdom, Religion, Laws, and Liberties; and that what-ever Laws are hence<g ref="char:EOLhyphen"/>forth made without ſuch Proviſions, as are neceſſary to their infallible Execution, are but mockeries of God in his Concern, and groſs abuſes of the Country in their Intereſts and Truſt.</p>
+                  <p>This Paper coming ſeaſonably to my hand, to prove by what particular Law, our Modern Poiſoners, Aſſaſſins, Incendiaries, Plunderers, Regicides, <hi>&amp;c.</hi> are authorized with a good Conſcience to attempt ſo many horrid Villanies, and pro<g ref="char:EOLhyphen"/>teſt, at their Death, their Babe-like Innocency, I thought it would be acceptable to the Reader, to find it recorded here, in the <hi>Sorbon</hi> Doctor's own words, as I found it printed, in his Expoſtulation oppoſed to the Jeſuits printed <hi>Theſis,</hi> de<g ref="char:EOLhyphen"/>fended in their <hi>Claromontane</hi> College at <hi>Paris.</hi>
+                  </p>
+                  <q>
+                     <bibl>Valerian Flavigny <hi>hath theſe words in the Book and Page quoted in the Margent.</hi>
+                     </bibl>
+                     <p>Perhaps this place might require me to draw hither many other Decrees and Statutes of the Inquiſition — ſuch as thoſe which may be read in many places of the approved Decretals [or Book of the Secrets] of the Inquiſition, publiſhed at <hi>Venice</hi> by <hi>Marcus Antonius Zalterius,</hi> eſpecially in the 472, 675, 676, namely.</p>
+                     <p>That it is lawful for every Man by his own private (or proper) Authority, to take captive, ſtrip, &amp; alſo to kill <hi>Heretics.</hi>
+                     </p>
+                     <pb n="12" facs="tcp:99587:9" rendition="simple:additions"/>
+                     <p>That all Perſons who are held bound to any Perſon whatſoever (not except<g ref="char:EOLhyphen"/>ing Kings) in what kind of Obligation ſoever, are then wholly freed from it, when they to whom they are obliged, fall into any manifeſt Hereſy.</p>
+                     <p>That Hereticks, from the day they become Criminal, loſe all Right and and Power (or Dominion) of retaining or diſpoſing of all their Goods.</p>
+                     <p>That all help and benefit of Laws is denied them; and that every legal Act is forbidden them.</p>
+                     <p>He to whom an Heretick hath en<g ref="char:EOLhyphen"/>truſted any thing, is not obliged to re<g ref="char:EOLhyphen"/>ſtore his truſt to him.</p>
+                     <p>That a Catholick Wife is not ob<g ref="char:EOLhyphen"/>liged not to defraud her Husband, be<g ref="char:EOLhyphen"/>cauſe by the Husbands Hereſy the Wife is free from that Duty, and ſo on the other hand; neither yet is the Bond of Matrimony thereby diſſolved.</p>
+                     <p>That all Vaſſals whatſoever are by the Letter of the Law (of right) freed from all Obligation, though confirmed by the Religious Bond of an Oath, by which they were engaged to their Lords. Children are in their own diſpoſal, and freed from all Duty to their Parents, ſo ſoon as they become Hereticks.</p>
+                     <p>
+                        <hi>So teſtifies the Catholick Doctor of the Laws of the</hi> Roman <hi>Court of Inquiſition.</hi>
+                     </p>
+                  </q>
+                  <pb n="11" facs="tcp:99587:8"/>
+                  <q>
+                     <bibl>Expoſtulatio adverſus Theſin Cla<g ref="char:EOLhyphen"/>romontanam, Valeriani de Fla<g ref="char:EOLhyphen"/>vigni Doctoris, ac Socii Sorbo<g ref="char:EOLhyphen"/>nenſis, Sacrarum Hebraicarum Literarum, Profeſſoris Regii in Regio <hi>Franc.</hi> Collegio Profeſſo<g ref="char:EOLhyphen"/>rum Regiorum Decani.</bibl>
+                     <p>Pag. 9. <hi>Forſitan poſtularet iſte locus, ut plura alia Inquiſitionis Decreta, aut Statuta huc adveherem—qualia ſunt illa, quae paſsim in Decretorio Inquiſito<g ref="char:EOLhyphen"/>rum approbato, &amp;</hi> Venetiis <hi>apud</hi> Mar<g ref="char:EOLhyphen"/>cum Antonium Zalterium <hi>edito legi poſſunt, ac preſertim</hi> 472, 675, 676, <hi>videlicet.</hi>
+                     </p>
+                     <p>
+                        <hi>Licere propria Authoritate Haereticos capere, ſpoliare ac etiam interficere.</hi>
+                     </p>
+                     <pb n="12" facs="tcp:99587:9" rendition="simple:additions"/>
+                     <p>
+                        <hi>Omnes qui aliquo Obligationis genere aliquibus tenentur adſtricti, tunc libe<g ref="char:EOLhyphen"/>rari penitus cum illi quibus obligati erant in Haereſin incidunt manifeſtam.</hi>
+                     </p>
+                     <p>
+                        <hi>Haereticos à die commiſsi criminis a<g ref="char:EOLhyphen"/>mittere dominium omnium bonorum.</hi>
+                     </p>
+                     <p>
+                        <hi>Haereticis omne Legum auxilium, &amp; beneficium denegatum eſſe, omnemque actum legitimum interdictum.</hi>
+                     </p>
+                     <p>
+                        <hi>Eum apud quem Haereticus aliquid depoſuit, non teneri rem depoſitam Hae<g ref="char:EOLhyphen"/>retico reſtituere.</hi>
+                     </p>
+                     <p>
+                        <hi>Uxorem Catholicam, &amp; è converſo, viro Haeretico debitum reddere non ob<g ref="char:EOLhyphen"/>ligari, quia per Haereſin viri ab hoc de<g ref="char:EOLhyphen"/>bito liberata eſt; neque tamen diſſolutum eſſe Matrimonii vinculum.</hi>
+                     </p>
+                     <p>
+                        <hi>Quoſcun<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> vaſallos, omni Obligatione etiam juramenti Religione munita, quo dominis ſuis tenebantur adſtricti ipſo ju<g ref="char:EOLhyphen"/>re liberatos eſſe. Filios Haereticorum effici ſui juris quam primum eorum pa<g ref="char:EOLhyphen"/>rentes incidunt in Haereſin.</hi>
+                     </p>
+                  </q>
+                  <p>And ſo on the other ſide, Kings and Parents are not bound to them by parity of Law.</p>
+                  <p>And here, becauſe my ingenious <hi>Romaniſt</hi> ſhall not object againſt this Teſti<g ref="char:EOLhyphen"/>mony, as he doth againſt the King's Evidence, that we bring only Saying and Swearing againſt theſe monſters of Men and Opinions, and no Reaſons, I will give him two Arguments to prove theſe Doctrines to be true and neceſſary Points of their Faith.</p>
+                  <p>And the firſt Reaſon is, Becauſe the moſt Holy Popes, and Infallible General Councils, confirmed and eſtabliſhed theſe Doctrines, who confirmed and eſta<g ref="char:EOLhyphen"/>bliſhed their Faith, of the real ſubſtantial Preſence of the Body and Blood of Chriſt, over and beſides all its Graces, Vertues, Powers, and Merits, to the faithful Receiver, by their incomprehenſible Tranſubſtantiation, againſt as clear Light of Senſe in this, as of Morality utterly extinguiſhed in that. So that they who leave the Jeſuits in the Doctrine of Poiſoning and Murdering Kings, cannot continue in the Communion of their Church-Maſs, by the Authority of Pope or Council: Nor can the evaſion help that it was ordered, but not defined; for if fallible in Practice, which is directed by Judgment, who can ſecure us that Judg<g ref="char:EOLhyphen"/>ment is Infallible, where Practice is Heretical?</p>
+                  <p>My ſecond Argument is a Demonſtration, in which the infallible Pen of St. <hi>Paul</hi> gives the <hi>Major,</hi> That all is the Churches, and the Pope's Infallible Chair the <hi>Minor,</hi> The Pope, and thoſe in his Communion, is the only Church, therefore all is theirs: and we are beholden to them that they have not long ſince (according to the Law of the Holy Inquiſition) ſeized all we have; to be ſure they
+<pb n="13" facs="tcp:99587:9" rendition="simple:additions"/>owe us nothing to whom we owe our very Lives; and therefore we as vainly ex<g ref="char:EOLhyphen"/>pect they ſhould owe or afford us one Grain of ſo pretious a Truth, as an ingenu<g ref="char:EOLhyphen"/>ous confeſſion of the preſent Plot, which were to contribute greatly to our Deli<g ref="char:EOLhyphen"/>very, Life and Peace, the Plague and Ruin of their Cauſe.</p>
+                  <p>And here we may ſee what quarter we are to expect from all thoſe ſupercili<g ref="char:EOLhyphen"/>ous Factions, who Unchurch all Chriſtians who ſymbolize not with them in all their Ceremonies, and fiercely Excommunicate them, as <hi>Lutherans</hi> do the <hi>Calve<g ref="char:EOLhyphen"/>niſts</hi> at this day. That I may ſay nothing of our Opinioniſts, who found Domi<g ref="char:EOLhyphen"/>nion in Grace, and run from <hi>Rome</hi> in the Fool's Circle, till they overtake and out-go it.</p>
+               </div>
+               <div type="subpart">
+                  <head>
+                     <hi>Postſcript or Marginal Note to</hi> Flavigni.</head>
+                  <p>
+                     <hi>N.B.</hi> That <hi>Green, Berry,</hi> and <hi>Hill,</hi> having ſo good Authority (without War<g ref="char:EOLhyphen"/>rant from any General, or other Superior Commiſſioned from the Pope) by the legal Decree of the Holy Inquiſition, to kill what Hereticks they pleaſed; for them to acknowledg themſelves Guilty, had bin to renounce their Holy Pope, and Holy Inquiſition, which were to renounce God and Chriſt, and leave the Church Headleſs, and condemn Holy <hi>Garnet,</hi> and all the Red-letter'd Saints, who conſecrated themſelves by the Slaughter and Maſſacres they have made of more Proteſtants within this two hundred Years, than are now any where alive; and kill'd and burnt more in two Proteſtant King's Reigns, than in all their Popiſh Pre<g ref="char:EOLhyphen"/>deceſſors; and eſpecially they had blaſphemed their <hi>French</hi> and <hi>Iriſh</hi> Maſſacres, and <hi>Engliſh London</hi>-Fire, thoſe renowned Proofs of <hi>Roman</hi> Zeal and Religion.</p>
+               </div>
+            </div>
+            <div type="part">
+               <div type="account">
+                  <head>The Examination of <hi>John Lund</hi> of <hi>Iver,</hi> in the County of <hi>Bucks,</hi> taken upon Oath before me <hi>Henry Coventry</hi> 
+                     <abbr>Eſq</abbr> one of his Majeſty's princi<g ref="char:EOLhyphen"/>pal Secretaries of State, this <hi>2d</hi> day of <hi>January 1678.</hi> Who being duly Sworn, and Examined, ſaith:</head>
+                  <p>THat upon <hi>Tueſday,</hi> the laſt day of <hi>December</hi> laſt, about ſix of the Clock of the ſame in the Evening, this Examinant being abroad to look after ſome Wood-ſtealers, he ſaw ſeven or eight Men on Horſe-back coming from <hi>Iver-Heath</hi> towards <hi>Iver-Town;</hi> and three or four of them parted and went the way to<g ref="char:EOLhyphen"/>ward <hi>Rickmanſworth,</hi> and the other four came down the Land near which this Examinant ſtood.</p>
+                  <p>One of them having occaſion to Untruſs, he alighted, and another held his Horſe, and commanded the other two to go forward, who, as this Examinant ſuppoſeth, were their Servants.</p>
+                  <p>This Examinant ſaith, That he was on the other ſide the Hedg, and very nigh this Perſon who alighted, and heard the one ſay to the other, <hi>How are things like to go?</hi> The other anſwered, <hi>Well enough, for as for that Inquiſitive Dog</hi> Shaftſ<g ref="char:EOLhyphen"/>bury, <hi>and that Dog</hi> Eſſex, and another whoſe Name this Examinant did not per<g ref="char:EOLhyphen"/>fectly hear, but it was <hi>Holle,</hi> or <hi>Alle,</hi> or ſome ſuch ſound, <hi>their Buſineſs ſhould be done.</hi> The one asked, <hi>Which way?</hi> The other anſwered, <hi>One</hi> Mac— <hi>who was a clever ſtout Fellow, and had courage, would do it in Womens Apparel.</hi> The other asked again, <hi>Are you ſure he will do it? Yes,</hi> ſaid he, <hi>he will; but if he will not, there are a thouſand will do it for the ſame Encouragement.</hi> And this Exa<g ref="char:EOLhyphen"/>minant further ſaith, That he heard one of the ſaid Perſons ſay to the other, <hi>Do not fear, nor be diſcouraged, for we will ſend their Souls to the Devil for a New-years Gift:</hi> And then they mounted, and went forwards to a Place where the ways parted; and two of them went towards <hi>Kingston,</hi> and the other two towards <hi>Windſor.</hi> One of theſe Perſons who had this Diſcourſe under the Hedg, had a
+<pb n="14" facs="tcp:99587:10" rendition="simple:additions"/>black Cap on his Head, and the other a Hat; all the Horſes were dark colou<g ref="char:EOLhyphen"/>red, and two of the Perſons had Waſte-belts on, and one of them had a laced Livery, as near as this Examinant could perceive. And further this Examinant ſaith not.</p>
+                  <closer>
+                     <dateline>Taken before me <date>this 2d day of <hi>January,</hi> 1678.</date>
+                     </dateline>
+                     <signed>John Lund.</signed>
+                     <signed>HENRY COVENTRY.</signed>
+                  </closer>
+               </div>
+               <div type="subpart">
+                  <p>This Depoſition of ſo freſh a Date, is ſo full an evidence of that Diabolical Murdering Spirit, ſtill reigning in theſe Roman Emiſſaries and Conſpirators, that I ſhall not need to produce any other of that Cloud of Witneſſes; who with Sir <hi>Edmond-Bury Godfry</hi>'s Blood continually cry to our King, Lords, and Com<g ref="char:EOLhyphen"/>mons, for Vengeance; not ſo much on the poor deluded Acceſſaries and Inſtru<g ref="char:EOLhyphen"/>ments acted, as upon the Principals, and Actors, Jeſuits, Monks, Friers, and Prieſts, whereof there is not one ſent hither who hath not ſome Epiſcopal Juriſ<g ref="char:EOLhyphen"/>diction, and conſequently who is not a ſworn Enemy to our King, Kingdoms, and Religion. If by the equity of <hi>Moſes</hi> Law, he who let a wild Ox go looſe, who had formerly goared others, was to anſwer with the price of his own Life the miſchief done by ſuch ungoverned Brutes: I leave it to God to judg be<g ref="char:EOLhyphen"/>twixt this People and their Superiors, and to determine, after ſo many thou<g ref="char:EOLhyphen"/>ſands of Innocents flain in our former Confuſions in all the three Kingdoms, ralſed or promoted by theſe Incendiaries, at whoſe hands that Blood ſhall be re<g ref="char:EOLhyphen"/>quired, which by any neglect of theirs, in not trying up and exterminating theſe Furies, may again deſtain and pollute this Land.</p>
+                  <p>Theſe following Propoſitions, to prevent Aſſaſſins, have bin peruſed and ap<g ref="char:EOLhyphen"/>proved, as not unworthy of publick conſideration.</p>
+                  <q>
+                     <lg>
+                        <l>
+                           <hi>Da veniam ſubitis non diſplicuiſſe meretur,</hi>
+                        </l>
+                        <l>
+                           <hi>Feſtinat Lector qui placuiſſe tibi.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <l>Pardon kind Reader what you can't commend.</l>
+                        <l>This haſte to pleaſe deſerves not to offend.</l>
+                     </lg>
+                  </q>
+               </div>
+               <div type="subpart">
+                  <head>Other Depoſitions and Informations, farther diſcovering the Jeſuital Aſſaſsins and Aſſaſsinations.</head>
+                  <head type="sub">Mr. <hi>Oates</hi>'s Narrative,</head>
+                  <p>JUne 13.76. <hi>Tho. Whitebread</hi> in his Chamber, told the Rector of St. <hi>Omers,</hi> That a Miniſter of the Church of <hi>England</hi> (he meaning Dr. <hi>Tonge</hi>) had ſcan<g ref="char:EOLhyphen"/>dalouſly and baſely put out the <hi>Jeſuits Morals</hi> in Engliſh, and had endeavoured villanouſly to render them odious to the People; and asked the ſaid Rector, Whether he thought the Deponent, Mr. <hi>Oates,</hi> might poſſibly know him? and the Rector not knowing, called the Deponent, (who ſtood at the Provincial's Chamber Door and heard theſe words) and when the Deponent came into the Chamber of the ſaid Provincial <hi>Whitebread,</hi> he asked him, If he knew the Au<g ref="char:EOLhyphen"/>thor of the <hi>Jeſuits Morals?</hi> The Deponent anſwered, <hi>His Perſon, but could not well remember his Name. Whitebread</hi> then demanded, Whether he would under<g ref="char:EOLhyphen"/>take to Poiſon or Aſſaſſinate the ſaid Author? which the ſaid Deponent under<g ref="char:EOLhyphen"/>took to do, having fifty pounds Reward promiſed him by the ſaid Provincial, and was appointed to return for <hi>England.</hi>—</p>
+                  <p>At the ſaid time the Provincial ſaid in his Chamber, That he and the Society
+<pb n="15" facs="tcp:99587:10" rendition="simple:additions"/>of <hi>London</hi> would procure Dr. <hi>Stillingfleet</hi> to be knockt in the Head, and Maſter <hi>Pool</hi> the Author of <hi>Synopſis Criticorum,</hi> for writing ſome things againſt them. <hi>Numb.</hi> 30.</p>
+                  <p>
+                     <hi>July</hi> 78, <hi>Richard Aſhby</hi> came to <hi>London,</hi> with Inſtructions from <hi>Whitebread,</hi> in which was an <hi>Item,</hi> with a <hi>Memorandum,</hi> for the procuring the Aſſaſſination of the Right Reverend Father in God, <hi>Herbert,</hi> Lord Biſhop of <hi>Hereford;</hi> for that the ſaid Biſhop had bin educated in the Popiſh Religion, and was fallen, and they were reſolved not to pity, nor ſpare any Apoſtate from the <hi>Roman</hi> Faith. <hi>Aſhby</hi> alſo ſaid, That Times being now ready to change, they would be ready to give, not only Apoſtates, but alſo thoſe Hereticks that had obſtinately oppoſed the proceedings of the Society, and their Agents in propagating the Faith, and Inte<g ref="char:EOLhyphen"/>reſt of the Church of <hi>Rome,</hi> a juſt Reward for their Apoſtacy, and infamous Obſtinacy; and though the Parliament have taken away the Act for burning He<g ref="char:EOLhyphen"/>reticks, they ſhould not eſcape the vengeance of Catholicks, <hi>Numb.</hi> 33.</p>
+                  <p>
+                     <hi>Auguſt</hi> 9. 1678. <hi>Bazil Langworth,</hi> and others of the Society, did offer ten pounds to the Deponent (Mr. <hi>Oates</hi>) to kill <hi>Berry,</hi> formerly a Jeſuit, now a Se<g ref="char:EOLhyphen"/>cular Prieſt, becauſe he had written, and was about to print, ſome ſheets of Pa<g ref="char:EOLhyphen"/>per in vindication of the Oaths of <hi>Allegiance</hi> and <hi>Supremacy;</hi> and in it perſuaded <hi>Roman Catholicks</hi> to a more charitable compliance with <hi>Proteſtants.</hi> And urged the Deponent, If he durſt not do it himſelf, to procure ſome other to do it; aſ<g ref="char:EOLhyphen"/>ſuring the Deponent, that whoſoever did it, and were queſtioned for it, he ſhould have a Pardon. <hi>Numb.</hi> 47.</p>
+                  <p>Mr. <hi>Bedloe,</hi> pag. 42. <hi>April</hi> 75. at <hi>Paris,</hi> at a Conſultation, two <hi>French</hi> Ab<g ref="char:EOLhyphen"/>bots, and ſeveral <hi>Engliſh</hi> Monks, diſcourſed about carrying on the Plot, to ſub<g ref="char:EOLhyphen"/>vert the Government of <hi>England;</hi> to deſtroy the King, and the Lords of the Council, the King was principally to be deſtroyed, and the Government ſubver<g ref="char:EOLhyphen"/>ted, as well as the <hi>Proteſtant Religion. Coleman</hi>'s Tryal.</p>
+                  <p>Mr. <hi>Bedloe (Ireland</hi>'s Tryal) pag. 44, 45. <hi>Auguſt</hi> 78. About the ſame time there was a diſcourſe of a Deſign to kill ſeveral Noble Men, and the particular Parts aſſigned to every one; <hi>Knight</hi> was to kill the Earl of <hi>Shaftsbury; Pritchard</hi> the Duke of <hi>Buckingham; Oneal</hi> the Earl of <hi>Oſſory; Obrian</hi> the Duke of <hi>Or<g ref="char:EOLhyphen"/>mond.</hi>
+                  </p>
+               </div>
+               <div type="subpart">
+                  <p>I will conclude theſe Informations, with an Account borrowed from our inge<g ref="char:EOLhyphen"/>nious Country-man, a zealous Aſſertor of the Church, though not of the Court of <hi>Rome,</hi> nor their Jeſuitical Paraſites, Braves and Cut-throats, where you may ſee how theſe Artiſts imitate the Warlike <hi>Laconian</hi> Education of their Youth, making, by the ſeverity of their Collegiat Inſtitution, the Sacred War, to which they ſend their Miſſionaries, a pleaſure rather than a toyl, as all they know who have had Education amongſt them.</p>
+                  <p>
+                     <hi>Baronius</hi> in his <hi>Roman Martyrologie</hi> (ſo writes this Modern Wit) ſaith, That the Holy Prieſts, as Innocent Lambs fatted in the Sacred Cloiſters, by the Holy Society of <hi>Jeſus,</hi> with divine Inſtructions for Martyrdom, (a Sacrifice acceptable to God) and the Sacred Colleges at <hi>Rome</hi> and <hi>Rhemes,</hi> have bin put to Death, becauſe they preached in <hi>England</hi> the Doctrine of the Holy Romiſh Church. [1. <hi>King-killing, as above, in the Laws of the Holy Inquiſition.</hi>] I wiſh he had not ſaid it, in regard they are Envoys of the Society of <hi>Jeſus,</hi> becauſe they are ac<g ref="char:EOLhyphen"/>cuſed to be liberal enough of other Mens Blood, <hi>[he means the Miſſioners and other Orders];</hi> and therefore, though it be a commendable thing to meet Martyr<g ref="char:EOLhyphen"/>dom, I would not have them guilty of ſending People meerly upon that Errand, [when there is no need for it]. Then, to breed them up as Victims to God, looks as if we ſacrificed them our ſelves, and ſmells a little of <hi>Baal-Peor.</hi> Then the word Cloiſter ſounds like a Priſon, as if we kept them in Franks, or Styes, to force them to keep their Oaths, <hi>[he means, of returning as Traitors to their Countries]</hi>
+                     <pb n="16" facs="tcp:99587:11" rendition="simple:additions"/>and upon this the Hereticks would be upon our Bones, and ſay of the God to whom we Sacrifice them; That it muſt be ſome God of this Age, or World, or elſe ſome God of the Earth, <hi>[i. Pope];</hi> for that the God of Heaven requires now no more Sacrifices at all, nor never did thoſe of Humane Blood. But that which ſpoils all is the word Fatted, Greaſed, or Anointed. A. B. <hi>Valgrand</hi> ſent me to <hi>Lipſius Saturnals, l.</hi> 1. <hi>c.</hi> 14. for the meaning of it. There I found the term was proper to the Gladiators, who were pick'd out of the condemned Priſoners, or miſerable Slaves, and afterwards maintained in their Sacred, or rather Execra<g ref="char:EOLhyphen"/>ble Seminaries, to the end they might purchaſe or pay for their Fat by their Death. <hi>Qui dabit immundae venalia fata ſaginae, Propertius.</hi> They weary them out of their Colleges and Chambers of Meditation, <hi>&amp;c.</hi>
+                  </p>
+                  <p>To furniſh ſuch as theſe, the ſharp-witted Proſecutors have provided, and ſet up at <hi>Rhemes, Rome, Doway, Madrid,</hi> and <hi>Valladolid,</hi> Colleges of young <hi>Engliſh;</hi> who as <hi>Marcus Navarrus</hi> writes, in his third Book of <hi>Councils,</hi> by an eſtabliſhed Papal Conſtitution, are bound to ſwear, <hi>[before they taſte any of the Popes Boun<g ref="char:EOLhyphen"/>ty in their Colleges]</hi> That after ſo many Years they ſhall return into <hi>England</hi> to publiſh what they have learnt, <hi>[i. Aſſaſſination, King-killing, and City-burning, as at this day]</hi> (I add, and they at the entrance, forſwear their Allegiance alſo); what good hath come of this, Cardinal <hi>Bellarmine</hi> tells us in his <hi>Apology for Seminaries.</hi>
+                  </p>
+                  <p>
+                     <hi>N. B.</hi> To juſtify our Laws againſt Roman Emiſſaries, that before they are made Prieſts, they are guilty of accumulated Treaſons.</p>
+                  <p>Firſt, It is Felony for any Proteſtant to go out of this Kingdom without his Majeſty's leave, much more for ſuch a miſchievous end as to be trained up in ſuch deſperate Principles in the Popiſh Seminaries, as are there Profeſſed, Preached, and Taught, to the utter ſubverſion of all true Piety to God, Allegi<g ref="char:EOLhyphen"/>ance to Prince; Morality, Civility, or Fidelity to Mankind.</p>
+                  <p n="2">2. They renounce their Allegiance at their firſt entrance into ſuch Seminaries, which were firſt Inſtituted to teach a Foreign Allegiance to a <hi>Spaniſh</hi> Heir, againſt Queen <hi>Elizabeth,</hi> this is High Treaſon.</p>
+                  <p n="3">3. They ſwear to perpetuate this their treaſonable Renunciation, by an un<g ref="char:EOLhyphen"/>ceſſant activity in Treaſon in their return to <hi>England,</hi> before they can receive any benefit of their Renunciation: This intent of Treaſon, were Treaſon, though it ſhould never be reduced into Act here in <hi>England,</hi> whither it is Treaſon for them to come with ſuch Traiterous Intention.</p>
+                  <p n="4">4. At and before their Ordination, their Biſhops and Prieſts, who in <hi>England</hi> have Epiſcopal Juriſdiction, ſwear to be Enemies to all the Pope's Enemies, and to ſeek their utter ruin and deſtruction. I hope Prieſthood, by its indelible Cha<g ref="char:EOLhyphen"/>racter, doth not blot out, but augment all the Oaths and Obligations to Treaſon, in conſideration whereof it was, and without which it cannot be given.</p>
+                  <p n="5">5. All Prieſts who are of any Regular Orders, are obliged by their Oaths, to obey the Pope (if not with Blind, as Jeſuits) at leaſt with Canonical Obedience; and it appears above, and elſewhere, by the Canon of the Holy Inquiſition, and the Letter of the Pope's Law, that they ought to moleſt us Hereticks by all man<g ref="char:EOLhyphen"/>ner of means, Fire, Aſſaſſination, Regicides, falſe Plots, News, <hi>&amp;c.</hi> of which we have lately lamentable experience, till by mere vexation, we be driven, as thouſands are daily out of other Countries, to wander deſtitute, afflicted, and tormented, in Exile; or to forſake our Religion, and Laws, and live Slaves with our Prince, under the Tyranny of the Pope and Devil.</p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
